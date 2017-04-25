@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+    </head>
+    <body>
+       <h1>Страничка личности</h1> 
+       <h2>Обо мне</h2>
+        <p>Здесь будет написана информация о личности</p>
+        <ul>
+        <li><b>Здесь</b> будут названия предметов</li>
+        </ul>   
+    </body>
+</html>
